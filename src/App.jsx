@@ -3,6 +3,9 @@ import './App.css'
 import FirstAbout from '../ABOUT/FirstAbout'
 import Problem from '../ABOUT/Problem'
 import OurMission from '../ABOUT/OurMission'
+import RoadMap from '../ABOUT/RoadMap'
+import Values from '../ABOUT/Values'
+import Action from '../ABOUT/Action'
 
 function App() {
   
@@ -11,6 +14,9 @@ function App() {
       <FirstAbout/>
       <Problem/>
       <OurMission/>
+      <Values/>
+      <RoadMap/>
+      <Action/>
     </>
   )
 }
