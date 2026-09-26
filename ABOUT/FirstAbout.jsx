@@ -4,9 +4,9 @@ import { CgArrowLongLeft } from "react-icons/cg";
 export default function FirstAbout() {
   return (
     <section className='mx-10 lg:mx-20 mt-10 w-[75%] lg:w-[54%]'>
-        <button className='flex items-center gap-2 text-green-800 font-bold'>
-            <CgArrowLongLeft className='text-5xl'/>
-            <h3 className='text-xl'>Back to home</h3>
+        <button className='flex items-center gap-2 text-green-800 pb-5'>
+            <CgArrowLongLeft className='text-lg font-light'/>
+            <h3 className='text-xl font-bold'>Back to home</h3>
         </button>
         <div className='flex items-center gap-2'>
             <div className='bg-green-800 w-10 h-[2px]'/>

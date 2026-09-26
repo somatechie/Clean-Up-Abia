@@ -7,7 +7,7 @@ export const missionList = [
         id: 1,
         icon: LuCircleDollarSign,
         title: "Our mission",
-        note: "Make it effortless for every Abia resident to report, clear and recycle waste—and get paid fairly for the effort put in, no matter how small the report."
+        note: "Make it effortless for every Abia resident to report, get waste picked up, clear and recycle waste—and get paid fairly for the effort put in, no matter how small the report."
     },
     {
         id: 2,

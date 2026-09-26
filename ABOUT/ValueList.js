@@ -7,12 +7,12 @@ export const valuesList =[
     {
         icon: CiLocationOn,
         title: "Transparency",
-        description: "Every report's status, every payout, and every job's outcome is tracked and visible to the person who's owed it."
+        description: "Every report's status, every pickup request, every payout, and every job's outcome is tracked and visible to the person who's owed it."
     },
     {
         icon: GoPeople,
         title: "Community-first",
-        description: "Reporters and agents aren't users of  the platform, they're the platform — every design decision starts with them."
+        description: "Residents, businesses, reporters and agents aren't just users of the platform, they're the platform — every design decision starts with them."
     },
     {
         icon: IoMdCheckmark,

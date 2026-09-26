@@ -4,7 +4,7 @@ export const roadmap = [
     badge: "26",
     title: "Pilot launch",
     description:
-      "Live in Aba South and Aba North with reporting, agent dispatch and two recycling zones.",
+      "Live in Aba South and Aba North with reporting, pickup services, agent dispatch and two recycling zones.",
   },
   {
     year: "2027",
